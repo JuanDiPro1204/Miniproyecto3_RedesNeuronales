@@ -3,8 +3,8 @@
 ## 📑 **Descripción**
 Este proyecto utiliza Redes Generativas Antagónicas (GANs) para mejorar la calidad de las mamografías. Las GANs permiten generar imágenes de alta calidad a partir de imágenes de baja calidad, contribuyendo al diagnóstico temprano del cáncer de mama al reducir el ruido, mejorar la resolución y destacar las características clínicas esenciales.
 
-🔗 **Notebook del proyecto:**  
-El cuaderno de colab en el que se realizó todo el entrenamiento y validación del funcionamiento de la red de encuentra en el archivo llamado Miniproyecto3_Redes.ipynb
+> :memo: **Nota:** El cuaderno de colab en el que se realizó todo el entrenamiento y validación del funcionamiento de la red de encuentra en el archivo llamado Miniproyecto3_Redes.ipynb.
+
 ---
 
 ## 🧠 **Resumen**
