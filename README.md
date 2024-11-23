@@ -54,7 +54,7 @@ El modelo mostró un entrenamiento balanceado entre el generador y el discrimina
 - Similitud visual elevada con las imágenes originales de alta calidad (Ground Truth).
 
 **Ejemplos visuales:**
-| **Input**  | **Ground Truth**  | **Predicted**  |
+| **Imagen de entrada**  | **Imagen verdadera**  | **Imagen predicha**  |
 |------------|-------------------|----------------|
 | ![Input](input_example.jpg) | ![GT](ground_truth.jpg) | ![Predicted](predicted_example.jpg) |
 
