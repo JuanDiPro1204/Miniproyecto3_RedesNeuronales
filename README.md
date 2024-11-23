@@ -53,10 +53,10 @@ El modelo mostró un entrenamiento balanceado entre el generador y el discrimina
 - Las imágenes generadas presentan una notable mejora en resolución y reducción de ruido.  
 - Similitud visual elevada con las imágenes originales de alta calidad (Ground Truth).
 
-**Ejemplos visuales:**
-| **Imagen de entrada**  | **Imagen verdadera**  | **Imagen predicha**  |
-|------------|-------------------|----------------|
-| ![Input](input_example.jpg) | ![GT](ground_truth.jpg) | ![Predicted](predicted_example.jpg) |
+| **Imagen de entrada**         | **Imagen verdadera**         | **Imagen predicha**         |
+|--------------------------------|------------------------------|------------------------------|
+| ![Input](https://github.com/JuanDiPro1204/Miniproyecto3_RedesNeuronales/blob/main/images/Imagen%20de%20entrada.png?raw=true) | ![GT](https://github.com/JuanDiPro1204/Miniproyecto3_RedesNeuronales/blob/main/images/Imagen%20verdadera.png?raw=true) | ![Predicted](https://github.com/JuanDiPro1204/Miniproyecto3_RedesNeuronales/blob/main/images/Imagen%20predicha.png?raw=true) |
+
 
 ---
 
